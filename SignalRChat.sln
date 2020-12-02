@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChatWeb", "SignalRChatWeb\SignalRChatWeb.csproj", "{F85BC649-B532-41A4-9337-F3F562101317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85BC649-B532-41A4-9337-F3F562101317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85BC649-B532-41A4-9337-F3F562101317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85BC649-B532-41A4-9337-F3F562101317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85BC649-B532-41A4-9337-F3F562101317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720A7F56-082D-44F1-A50A-C727C4AAEE6C}
+	EndGlobalSection
+EndGlobal
